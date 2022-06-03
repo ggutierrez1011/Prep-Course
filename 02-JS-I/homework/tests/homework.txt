@@ -1,0 +1,33 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+
+Variables:
+Es cualquier cosa que podemos guardar en memoria en una computadora.
+
+Strings:
+Son los datos que utilizamos para guardr solo "texto".
+
+Funciones:
+Es un bloque de codigo que se crea para realizar una acción en especifica. Devuelva o no algo.
+
+Una funcion puede utilizar argumentos, es decir solicitar algun tipo de dato para ejecutar dentro del bloque de codigo.
+
+Return lo utilizamos en el caso de que queramos que la función nos devuelva algun tipo de dato para utilizar mas adelante.
+
+Declaraciones if 
+
+El ciclo if lo utlizamos para validar si una condicion se cumple o no, es decir si cierta condicion es cierta se ejecutara cierto bloque de codigo, sino se ejecutará una acción distinta.
+
+Valores booleanos (true, false)
+
+Estos valores son muy simples, es decir algo es verdadero o false. 
+
+
+
+
+
